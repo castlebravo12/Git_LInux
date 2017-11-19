@@ -7,6 +7,7 @@ public class Main {
 	Dog dog = new Dog();
         Animal animal = new Dog();
         dog.kill();
+	    System.out.println("I am in love with GIT");
 
     }
 }
